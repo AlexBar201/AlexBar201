@@ -1,7 +1,6 @@
 Header(there will be a picture here)
 
-About me
-(contacts)
+# Привет! Меня зовут Саша, и я начинающий инженер по тестированию
 
 My latest projects
 
