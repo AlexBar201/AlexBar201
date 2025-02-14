@@ -1,4 +1,4 @@
-![Header](https://github.com/AlexBar201/AlexBar201/blob/main/sources/headerrr.png)
+![Header](https://github.com/AlexBar201/AlexBar201/blob/main/sources/headerrr-fotor-20250214182243.png)
 
 # Привет! Меня зовут Саша, и я начинающий инженер по тестированию
 ### Обо мне: 
