@@ -6,12 +6,14 @@
 
 My latest projects
 ### Ключевые навыки:
+![GIT](https://img.shields.io/badge/-GIT-090909?style=social&logo=git)
 ![POSTMAN](https://img.shields.io/badge/-Postman-090909?style=social&logo=postman)
-![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=)
-![GIT](https://img.shields.io/badge/-GIT-090909?style=for-the-badge&logo=git)
-![POSTMAN](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=postman)
-![POSTMAN](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=postman)
-![POSTMAN](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=postman)
-![POSTMAN](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=postman)
+![CHARLES](https://img.shields.io/badge/-Charles-090909?style=social&logo=charles)
+![GITHUB](https://img.shields.io/badge/-GITHUB-090909?style=social&logo=github)
+![SQL](https://img.shields.io/badge/-SQL-090909?style=social&logo=mysql)
+
+![JAVA](https://img.shields.io/badge/-Java-ffffff?style=social=java)
+![YOUTRACK](https://img.shields.io/badge/-YouTrack-ffffff?style=social=youtrack)
+![DevTools](https://img.shields.io/badge/-DevTools-ffffff?style=social=devtools)
 
 Social network
