@@ -4,7 +4,8 @@
 ### Обо мне: 
 Я начинающий QA инженер, увлечённый качеством ПО и тестированием. У меня есть начальные знания в тестировании веб и мобильных приложений, а также опыт работы с разными инструментами для тестирования. Хочу развиваться в области автоматизации тестов и постоянно улучшать свои навыки.
 
-My latest projects
+### Мои последние проекты:
+
 ### Ключевые навыки:
 ![GIT](https://img.shields.io/badge/-GIT-090909?style=social&logo=git)
 ![POSTMAN](https://img.shields.io/badge/-Postman-090909?style=social&logo=postman)
@@ -16,4 +17,6 @@ My latest projects
 ![YOUTRACK](https://img.shields.io/badge/-YouTrack-ffffff?style=social=youtrack)
 ![DevTools](https://img.shields.io/badge/-DevTools-ffffff?style=social=devtools)
 
-Social network
+### Для связи:
+![TELEGRAM](https://img.shields.io/badge/-Telegram-090909?style=social&logo=telegram)
+![WHATSAPP](https://img.shields.io/badge/-WhatsApp-090909?style=social&logo=whatsapp)
