@@ -18,5 +18,5 @@
 ![DevTools](https://img.shields.io/badge/-DevTools-ffffff?style=social=devtools)
 
 ### Для связи:
-![TELEGRAM](https://img.shields.io/badge/-Telegram-090909?style=social&logo=telegram)
-![WHATSAPP](https://img.shields.io/badge/-WhatsApp-090909?style=social&logo=whatsapp)
+[![TELEGRAM](https://img.shields.io/badge/-Telegram-090909?style=social&logo=telegram)](https://t.me/Al_Baranov201)
+![WHATSAPP](https://img.shields.io/badge/-89821484503-090909?style=social&logo=whatsapp)
