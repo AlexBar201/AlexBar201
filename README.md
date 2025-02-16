@@ -6,9 +6,9 @@
 
 My latest projects
 ### Ключевые навыки:
-![POSTMAN](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=postman)
-![JAVA](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=java)
-![POSTMAN](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=postman)
+![POSTMAN](https://img.shields.io/badge/-Postman-090909?style=social&logo=postman)
+![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=)
+![GIT](https://img.shields.io/badge/-GIT-090909?style=for-the-badge&logo=git)
 ![POSTMAN](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=postman)
 ![POSTMAN](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=postman)
 ![POSTMAN](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=postman)
