@@ -9,14 +9,14 @@
 
 ### Мои последние проекты(ручное тестирование):
 - [Чек-лист для проверки учебного сервиса "Яндекс.Самокат".](https://github.com/AlexBar201/Checklist_Yandex_Scooter)
-- [Данные валидации для проверки заполняемых полей учебного сервиса "Яндекс.Самокат".](https://github.com/AlexBar201/Yandex_Scooters_Validation_Data)
-- [Тест-кейсы для проверки учебного сервиса "Яндекс.Самокат".](https://github.com/AlexBar201/Yandex_Scooter_Test_Cases)
-- [Чек-лист для проверки API учебного сервиса "Яндекс.Самокат".](https://github.com/AlexBar201/Yandex_Scooter_API_Checklist)
-- [Баг-репорты в системе YouTrack для учебного сервиса "Яндекс.Самокат".](https://yandexqatest.youtrack.cloud/issues)
+- [Критерии валидации заполняемых полей учебного сервиса "Яндекс.Самокат".](https://github.com/AlexBar201/Yandex_Scooters_Validation_Data)
+- [Тест-кейсы для тестирования учебного сервиса "Яндекс.Самокат".](https://github.com/AlexBar201/Yandex_Scooter_Test_Cases)
+- [Чек-лист для тестирования API учебного сервиса "Яндекс.Самокат".](https://github.com/AlexBar201/Yandex_Scooter_API_Checklist)
+- [Отчёты о багах в системе YouTrack для учебного сервиса "Яндекс.Самокат".](https://yandexqatest.youtrack.cloud/issues)
 
 ### Мои последние проекты(автоматизация):
 - [UI автотесты для учебного сервиса "Яндекс.Самокат".](https://github.com/AlexBar201/Sprint_4)
-- [Юнит_тесты и оценка покрытия.](https://github.com/AlexBar201/qa_java)
+- [Юнит тесты и оценка покрытия.](https://github.com/AlexBar201/qa_java)
 - [Автотесты для API учебного сервиса "Яндекс.Самокат".](https://github.com/AlexBar201/Sprint_7)
 - [Задачки на написание UI автотестов](https://github.com/AlexBar201/tasks_for_QA)
 
